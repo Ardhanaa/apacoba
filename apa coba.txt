@@ -4,6 +4,7 @@ informatic class hmpi
 - PHP
  * AdminLTE
  * posgreSQL
+ *laravel
 - Python
  * django 4.2LTS
  * Flask
