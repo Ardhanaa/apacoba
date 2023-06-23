@@ -1,3 +1,5 @@
 informatic class hmpi
 - desain
-- git dan github
+  * Figma
+- PHP
+- Python
