@@ -8,3 +8,5 @@ informatic class hmpi
 - Python
  * django 4.2LTS
  * Flask
+- gatel
+- pemberi bansos
