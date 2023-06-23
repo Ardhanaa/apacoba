@@ -2,6 +2,9 @@ informatic class hmpi
 - desain
   * Figma
 - PHP
+ * AdminLTE
+ * posgreSQL
  *laravel
 - Python
- *django 4.2LTS
+ * django 4.2LTS
+ * Flask
